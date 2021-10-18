@@ -1,4 +1,5 @@
-#
+
+<a href="https://www.youtube.com/channel/UC4fZRTNdAcHJMDm71MyMkew?sub_confirmation=1" /><img src="PremiereFreezeEffectTutorial.gif" width="700px"/></a>
 1. RightClick => FrameHold
 2. Hold Option => Drag&Drop to V4
 3. Mask Out Subject(V4)
